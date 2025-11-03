@@ -1,8 +1,3 @@
-Baik! Berikut adalah file `README.md` lengkap, siap pakai, dan terstruktur dalam **bahasa Inggris** yang jelas dan mudah dipahami. File ini bisa kamu letakkan di root folder proyek kamu dan commit ke GitHub.
-
----
-
-````md
 # CodeIgniter 3 + Tailwind CSS Starter Kit
 
 A clean and ready-to-use starter kit to integrate **Tailwind CSS** with **CodeIgniter 3**. This kit allows you to quickly set up a CI3 project with Tailwind CSS for modern, responsive UI development.
@@ -72,6 +67,7 @@ To watch for changes in `src/input.css` and rebuild CSS automatically, run:
 ```bash
 npm run dev
 ```
+
 ````
 
 ### Production
@@ -128,12 +124,4 @@ MIT
 git add README.md
 git commit -m "Add complete README.md"
 git push origin main
-````
-
-Pastikan kamu juga sudah:
-
-- Menambahkan `.gitignore`.
-- Menghapus `node_modules` dari Git cache jika sudah terlanjur di-commit.
-- Mengaktifkan "Template repository" di GitHub.
-
-Setelah itu, starter kit kamu siap digunakan oleh siapa pun. Mereka bisa klik **"Use this template"**, lalu langsung mulai dengan `npm install`.
+```
